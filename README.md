@@ -1,2 +1,8 @@
-# Oasis_Infobyte_By_Hillol
-Tasks of Data Science 
+# OASIS INFOBYTE Data Science TASK LIST
+
+TASK 1: IRIS FLOWER CLASSIFICATION
+
+TASK 2: UNEMPLOYMENT ANALYSIS WITH PYTHON
+
+
+
